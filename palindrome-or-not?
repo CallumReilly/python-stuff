@@ -1,5 +1,4 @@
 x = input()
-print ("is palindrome")
 drow = ""
 for letter in x:
   drow = letter + drow
